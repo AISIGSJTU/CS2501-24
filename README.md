@@ -31,10 +31,10 @@
 | 图论 第二章     | [离散数学-图论-Chapter02](./files/离散数学-图论-Chapter02.pdf) |
 | 图论 第三章     | [离散数学-图论-Chapter03](./files/离散数学-图论-Chapter03.pdf) |
 | 数理逻辑 第一章 | [离散数学-数理逻辑-Chapter01](./files/离散数学-数理逻辑-Chapter01.pdf) |
-| 数理逻辑 第二章 |                                                             [离散数学-数理逻辑-Chapter02](./files/离散数学-数理逻辑-Chapter02.pdf) |
-| 数理逻辑 第四章 |                                                             [离散数学-数理逻辑-Chapter04](./files/离散数学-数理逻辑-Chapter04.pdf) |
-| 数理逻辑 第五章 |                                                             [离散数学-数理逻辑-Chapter05](./files/离散数学-数理逻辑-Chapter05.pdf) |
-| 集合论 第九章   |                                                              |
+| 数理逻辑 第二章 | [离散数学-数理逻辑-Chapter02](./files/离散数学-数理逻辑-Chapter02.pdf) |
+| 数理逻辑 第四章 | [离散数学-数理逻辑-Chapter04](./files/离散数学-数理逻辑-Chapter04.pdf) |
+| 数理逻辑 第五章 | [离散数学-数理逻辑-Chapter05](./files/离散数学-数理逻辑-Chapter05.pdf) |
+| 集合论 第九章   | [离散数学-数理逻辑-Chapter09](./files/离散数学-集合论-Chapter09.pdf) |
 | 集合论 第十章   |                                                              |
 | 集合论 第十一章 |                                                              |
 
