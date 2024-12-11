@@ -53,10 +53,13 @@
 - [图论第一章 补充题](./files/离散数学-图论-Chapter01-Exercises.pdf)
 - [图论第二章 补充题](./files/离散数学-图论-Chapter02-Exercises.pdf)
 - [图论第三章 补充题](./files/离散数学-图论-Chapter03-Exercises.pdf)
+- [数理逻辑习题](./files/数理逻辑习题.pdf)
+- [数理逻辑参考答案](./files/数理逻辑参考答案（旧）.pdf)
 
 ### 习题课
 
 - [第一次习题课](./files/第一次习题课.pdf)
+- [第二次习题课](./files/第二次习题课.pdf)
 
 ### 随堂测试
 
