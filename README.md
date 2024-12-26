@@ -36,7 +36,7 @@
 | 数理逻辑 第五章 | [离散数学-数理逻辑-Chapter05](./files/离散数学-数理逻辑-Chapter05.pdf) |
 | 集合论 第九章   | [离散数学-数理逻辑-Chapter09](./files/离散数学-集合论-Chapter09.pdf) |
 | 集合论 第十章   | [离散数学-数理逻辑-Chapter10](./files/离散数学-集合论-Chapter10.pdf) |
-| 集合论 第十一章 |                                                              |
+| 集合论 第十一章 | [离散数学-数理逻辑-Chapter11](./files/离散数学-集合论-Chapter11.pdf)  |
 
 ## 课后作业 / Exercise
 
